@@ -1,5 +1,5 @@
 # Classroom-Seating-Plan
-Classroom Seating Plan Made Easier!
+Classroom Seating Plan Made Easier! (Java Console)
 
 ## Functionality
 
