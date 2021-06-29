@@ -3,7 +3,6 @@ Classroom Seating Plan Made Easier! (Java Console)
 
 ## Functionality
 
-- Java Console Program
 - A classroom seating plan that allows the user to select the size of their classroom (6x5 or 3x10) and outputs a visual representation of what their classrrom looks like.
 - The user can then type the number of students in their class, and the names of the students along with their seat location gets saved into a new TextFile.
 - This makes it easier for the user to refer back to the names and seat location, as there is a whole new file with the information.
